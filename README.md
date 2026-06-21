@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm a Software Developer based in Berlin, Germany 👋
+# Hi, I'm Ivan 👋
 
-Experienced software developer with 15+ years in the industry.
+Backend engineer with 15+ years building production systems across automotive, marketing tech, legal, and content management.
 
-My recent work has been focused on cloud migration projects, and over the years I've built backend systems across a range of domains — automotive, marketing tech, legal software, and content management.
+Most of my work lives in private repos — but here's what I'm building in the open:
 
 ## 🛠️ Tech I work with
 
@@ -27,15 +27,11 @@ My recent work has been focused on cloud migration projects, and over the years 
 
 **Automation & Infrastructure:** CI/CD with GitHub Actions · Infrastructure as Code with Terraform
 
-## 🌍 Background
+## 🔭 Currently working on
 
-I've had the chance to work across diverse industries:
-
-- ☁️ Cloud migration
-- 🚗 Automotive
-- 📣 Marketing Tech
-- ⚖️ Legal software
-- 📄 Content management
+- [whereisivan](https://github.com/drndivoje/whereisivan) — streams real-time GPS data from an Android device to a backend that visualizes location on a live map dashboard.
+- [PersonalPageGen](https://github.com/drndivoje/PersonalPageGen) — a CLI tool that converts markdown files into a static personal blog site.
+- [vluent](https://github.com/drndivoje/vluent) — a zero-dependency Java validation library for composing complex validation rules with Bean Validation compatibility.
 
 ## ✍️ Blog
 
