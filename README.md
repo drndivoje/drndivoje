@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Ivan 👋
 
 <!--
 **drndivoje/drndivoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hi, I'm Ivan 👋
 
 Backend engineer with 15+ years building production systems across automotive, marketing tech, legal, and content management.
 
