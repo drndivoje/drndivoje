@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Backend engineer with 15+ years building production systems across automotive, marketing tech, legal, and content management.
 
-Most of my work lives in private repos — but here's what I'm building in the open:
+Most of my work lives in private repos — but here is what I am building in the open:
 
 ## 🛠️ Tech I work with
 
@@ -37,4 +37,4 @@ I occasionally write about what I'm learning at [drnd.rocks](https://drnd.rocks)
 
 ## 💼 Open to work
 
-Currently open to backend, cloud, or platform engineering roles in **Germany** and **Spain**.
+Currently open to backend, cloud, or platform engineering roles in **Germany** and **Europe** (remote).
